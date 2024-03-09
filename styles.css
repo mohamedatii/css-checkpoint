@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  header nav {
+    display: inline-flex;
+  }
+  
+  header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .section {
+    margin: 20px;
+  }
